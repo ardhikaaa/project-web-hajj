@@ -1,0 +1,71 @@
+.header{
+    background-image: url(header.jpg);
+    background-size: cover;
+    background-position: 0 -90px;
+    width: 100%;
+    height: 651px;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.lgin button{
+    border: solid black 1px;
+}
+
+.lgin button:hover{
+    background-color: grey;
+    color: white;
+}
+
+
+.agency{
+    background-color: lightblue;
+    height: 500px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+.agency img{
+    margin-left: 15px;
+
+}
+
+.webname{
+    background-color: white;
+    width: 200px;
+    margin-left: 110px;
+    display: flex;
+    border-radius: 15px;
+    margin-top: 20px;
+    height: 70px;
+}
+
+.webname img{
+    width: 50px;
+    height: 50px;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+
+.card .btn{
+    border: 1px solid black;
+    font-weight: 500;
+}
+
+.card .btn:hover{
+    background-color: rgb(194, 232, 84);
+    border: 1px solid rgb(194, 232, 84);
+}
+
+.packbtn .btn{
+    color: black;
+    border: 1px solid grey;
+    margin-top: 50px;
+}
+
+.packbtn .btn:hover{
+    background-color: rgb(194, 232, 84);
+    border: 1px solid rgb(194, 232, 84);
+}

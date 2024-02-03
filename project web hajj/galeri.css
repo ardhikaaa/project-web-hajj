@@ -1,0 +1,20 @@
+.header{
+    background-image: url(header.jpg);
+    background-size: cover;
+    background-position: 0 -90px;
+    width: 100%;
+    height: 651px;
+}
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.lgin button{
+    border: solid black 1px;
+}
+
+.lgin button:hover{
+    background-color: grey;
+    color: white;
+}

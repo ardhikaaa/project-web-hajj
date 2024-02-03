@@ -1,0 +1,55 @@
+.icon .google{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #ececec;
+    border-radius: 100px;
+}
+
+.icon .google:hover{
+    cursor: pointer;
+}
+
+.icon .fb{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #ececec;
+    border-radius: 100px;
+}
+
+.icon .fb:hover{
+    cursor: pointer;
+}
+
+.icon .ig{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #ececec;
+    border-radius: 100px;
+}
+
+.icon .ig:hover{
+    cursor: pointer;
+}
+
+.icon .tw{
+    height: 30px;
+    width: 30px;
+    text-align: center;
+    padding-top: 5px;
+    background-color: #ececec;
+    border-radius: 100px;
+}
+
+.icon .tw:hover{
+    cursor: pointer;
+}
+
+.form .btn:hover{
+    color:black ;
+}

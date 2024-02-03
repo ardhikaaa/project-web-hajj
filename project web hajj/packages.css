@@ -1,0 +1,22 @@
+*{
+    font-family: 'Poppins', sans-serif;
+}
+
+.lgin button{
+    border: solid black 1px;
+}
+
+.lgin button:hover{
+    background-color: grey;
+    color: white;
+}
+
+.card .btn{
+    border: 1px solid black;
+    font-weight: 500;
+}
+
+.card .btn:hover{
+    background-color: rgb(194, 232, 84);
+    border: 1px solid rgb(194, 232, 84);
+}
